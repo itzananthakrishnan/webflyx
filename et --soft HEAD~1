@@ -1,0 +1,29 @@
+[33mcommit bfe280b4bcc179f36a5b46fc72f552b16986f0c9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madd_classics[m[33m)[m
+Author: itzananthakrishnan <ananthakrishnan.h@trois.in>
+Date:   Tue Jan 28 10:08:13 2025 +0530
+
+    E: MERGE
+
+[33mcommit 43a7f65cd987e05dc4dfc888e4cf0f9b53cfa6b6[m
+Author: itzananthakrishnan <ananthakrishnan.h@trois.in>
+Date:   Mon Jan 27 16:34:47 2025 +0530
+
+    D: add_classics
+
+[33mcommit 744b8d440869e58903ff50a61c0029577ea69a9d[m[33m ([m[1;32mmy_new_branch[m[33m)[m
+Author: itzananthakrishnan <ananthakrishnan.h@trois.in>
+Date:   Fri Jan 24 16:28:30 2025 +0530
+
+    C: add quotes
+
+[33mcommit 51b1ced71343cf2b1ab8b10d71a8b9f5a03e9ced[m
+Author: itzananthakrishnan <ananthakrishnan.h@trois.in>
+Date:   Fri Jan 24 15:20:39 2025 +0530
+
+    B: titles.md
+
+[33mcommit 5b34309cd645b89039bf76e828cbca92a7425822[m
+Author: itzananthakrishnan <ananthakrishnan.h@trois.in>
+Date:   Fri Jan 24 11:37:36 2025 +0530
+
+    A: add contents.md
